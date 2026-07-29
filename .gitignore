@@ -1,0 +1,37 @@
+# ANSYS generated and heavy result files
+*.lock
+*.lck
+*.tmp
+*.bak
+*.log
+*.err
+*.out
+*.cas.h5
+*.dat.h5
+*_files/
+*.wbpj
+dp0/
+user_files/
+SYS/
+MECH/
+FLU/
+
+# CATIA temporary and backup files
+*.CATPart~
+*.CATProduct~
+*.CATDrawing~
+*.cgr
+*.session
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
