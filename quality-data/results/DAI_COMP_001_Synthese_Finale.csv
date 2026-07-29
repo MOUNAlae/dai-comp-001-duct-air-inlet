@@ -1,0 +1,16 @@
+﻿SECTION;INDICATEUR;VALEUR;UNITE;INTERPRETATION
+PERFORMANCE;GAIN_CONFORMITE;42,00;points;Passage de 52 % à 94 % de pièces conformes.
+PERFORMANCE;REDUCTION_PIECES_NON_CONFORMES;87,50;%;Passage de 24 à 3 pièces non conformes.
+PERFORMANCE;REDUCTION_MOYENNE_PLANEITE;38,09;%;Réduction de la moyenne de planéité d’entrée.
+PARETO;DEFAUT_PRINCIPAL_1;COLLAGE;-;11 pièces, 40,74 % des NC.
+PARETO;DEFAUT_PRINCIPAL_2;VIDE_POROSITE;-;5 pièces, cumul 59,26 %.
+MSA;POURCENTAGE_GRR_STUDY;7,41;%;Inférieur à 10 %, système de mesure acceptable.
+MSA;POURCENTAGE_GRR_TOLERANCE;8,63;%;Indicateur complémentaire unilatéral.
+MSA;NDC;18;catégories;Supérieur au minimum pédagogique de 5.
+MSA;DECISION_MSA;SYSTEME ACCEPTABLE;-;SPC et capabilité autorisés.
+SPC;STABILITE_INITIAL;PROCEDE INSTABLE;-;Deux alertes statistiques détectées.
+SPC;STABILITE_AMELIORE;PROCEDE STABLE;-;Aucune alerte sur les cartes I-MR.
+CAPABILITE;CAPABILITE_INITIAL;NON INTERPRETABLE - PROCEDE INSTABLE;-;Indices indicatifs uniquement, procédé instable.
+CAPABILITE;CAPABILITE_AMELIORE;PROCEDE CAPABLE;-;Cpk 1,59 et Ppk 1,79, supérieurs à 1,33.
+CONCLUSION;RESULTAT_GLOBAL;AMELIORATION VALIDEE;-;Le scénario amélioré est plus conforme, stable et capable dans le cadre pédagogique.
+LIMITES;TYPE_DONNEES;SYNTHETIQUES;-;Aucune validation industrielle ou aéronautique réelle n’est revendiquée.
