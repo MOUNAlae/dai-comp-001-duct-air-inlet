@@ -491,7 +491,7 @@ dai-comp-001-duct-air-inlet/
 ├── README.md
 ├── .gitignore
 │ 
-│├── docs/
+├── docs/
 │   ├── Rapport_Technique_DAI-COMP-001.pdf
 │   └── DAI-COMP-001_ASSEMBLY_FINAL_DRAWING.pdf
 │
@@ -500,7 +500,7 @@ dai-comp-001-duct-air-inlet/
 │   ├── DAI-COMP-001-UPPER.CATPart
 │   ├── DAI-COMP-001-LOWER.CATPart
 │   ├── DAI-COMP-001-ASSEMBLY.CATProduct
-│   └── DAI-COMP-001-FLUID-DOMAIN.stp
+│   │── DAI-COMP-001-FLUID-DOMAIN.stp
 │   └── DAI-COMP-001_ASSEMBLY_FINAL_DRAWING.CATDrawing
 │
 ├── cfd/
