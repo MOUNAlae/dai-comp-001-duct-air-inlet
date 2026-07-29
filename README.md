@@ -7,6 +7,11 @@
 ![Statut](https://img.shields.io/badge/Statut-Termin%C3%A9-brightgreen)
 
 Projet personnel d’ingénierie aéronautique combinant conception paramétrique sous CATIA V5, prévalidation CFD sous ANSYS Fluent, préparation pédagogique de l’industrialisation composite et analyse qualité sur données synthétiques.
+<p align="center">
+  <img src="images/08_montage_catia_readme.png"
+       alt="Présentation CATIA du conduit composite DAI-COMP-001"
+       width="900">
+</p>
 
 ---
 
