@@ -490,10 +490,10 @@ dai-comp-001-duct-air-inlet/
 │
 ├── README.md
 ├── .gitignore
-│
-├── docs/
+│ 
+│├── docs/
 │   ├── Rapport_Technique_DAI-COMP-001.pdf
-│   └── Drawing_Assembly_DAI-COMP-001.pdf
+│   └── DAI-COMP-001_ASSEMBLY_FINAL_DRAWING.pdf
 │
 ├── cad/
 │   ├── DAI-COMP-001-SKELETON.CATPart
@@ -501,14 +501,16 @@ dai-comp-001-duct-air-inlet/
 │   ├── DAI-COMP-001-LOWER.CATPart
 │   ├── DAI-COMP-001-ASSEMBLY.CATProduct
 │   └── DAI-COMP-001-FLUID-DOMAIN.stp
+│   └── DAI-COMP-001_ASSEMBLY_FINAL_DRAWING.CATDrawing
 │
 ├── cfd/
-│   ├── geometry/
 │   └── results/
-│       ├── velocity/
-│       ├── pressure/
-│       ├── wall-yplus/
-│       └── streamlines/
+│       ├── M2_01_contour_yplus_paroi.png
+│       ├── M2_02_contour_pression_totale_longitudinale.png
+│       ├── M2_03_contour_pression_statique_longitudinale.png
+│       ├── M2_04_contour_vitesse_longitudinale.png
+│       ├── M2_05_vecteurs_vitesse_longitudinal.png
+│       └── M2_06_lignes_courant_entree.png
 │
 ├── quality-data/
 │   ├── dataset/
@@ -516,9 +518,14 @@ dai-comp-001-duct-air-inlet/
 │   └── results/
 │
 └── images/
-    ├── assembly-exploded.png
-    ├── cfd-overview.png
-    └── project-overview.png
+    ├── 01_vue_eclatee_upper_lower.png
+    ├── 02_assemblage_final_catia.png
+    ├── 03_demi_coquille_upper.png
+    ├── 04_demi_coquille_lower.png
+    ├── 05_brides_longitudinales_collage.png
+    ├── 06_controle_interferences.png
+    ├── 07_mise_en_plan_generale.png
+    └── 08_montage_catia_readme.png
 ```
 
 ---
