@@ -13,6 +13,13 @@ Projet personnel d’ingénierie aéronautique combinant conception paramétriqu
        width="900">
 </p>
 
+## Accès rapide aux livrables
+
+- [Rapport technique complet](docs/Rapport_Technique_DAI-COMP-001.pdf)
+- [Mise en plan finale de l’assemblage](docs/DAI-COMP-001_ASSEMBLY_FINAL_DRAWING.pdf)
+- [Classeur Excel final d’analyse qualité](quality-data/results/DAI_COMP_001_Analyse_Qualite_Final.xlsx)
+- [Dataset synthétique du procédé](quality-data/dataset/DAI_COMP_001_Dataset_Synthetique.csv)
+- [Domaine fluide au format STEP](cad/DAI-COMP-001-FLUID-DOMAIN.stp)
 ---
 
 ## Présentation du projet
