@@ -1,0 +1,10 @@
+﻿INDICATEUR;VALEUR;UNITE;INTERPRETATION
+CARACTERISTIQUE;PLANEITE_BRIDE_ENTREE;mm;CTQ-01
+TYPE_ETUDE;GAGE_RR_CROISE_ANOVA;-;10 pièces x 3 opérateurs x 2 répétitions
+NOMBRE_MESURES;60;mesures;Plan équilibré
+POURCENTAGE_GRR_STUDY;7,41;%;< 10 % : acceptable
+POURCENTAGE_GRR_TOLERANCE;8,63;%;Indicateur complémentaire, spécification unilatérale
+NDC;18;catégories;Minimum attendu : 5
+DECISION_MSA;SYSTEME ACCEPTABLE;-;Décision pédagogique
+AUTORISATION_SPC_CAPABILITE;OUI;-;Utilisation autorisée pour la suite pédagogique
+TYPE_DONNEES;SYNTHETIQUES;-;Aucune validation industrielle revendiquée
